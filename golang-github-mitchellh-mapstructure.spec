@@ -4,7 +4,7 @@
 #
 Name     : golang-github-mitchellh-mapstructure
 Version  : d2dd0262208475919e1a362f675cfc0e7c10e905
-Release  : 4
+Release  : 5
 URL      : https://github.com/mitchellh/mapstructure/archive/d2dd0262208475919e1a362f675cfc0e7c10e905.tar.gz
 Source0  : https://github.com/mitchellh/mapstructure/archive/d2dd0262208475919e1a362f675cfc0e7c10e905.tar.gz
 Summary  : No detailed summary available
